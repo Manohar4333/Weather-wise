@@ -19,7 +19,7 @@ const Search = ({setWeatherDetails}) => {
   url: 'https://weatherapi-com.p.rapidapi.com/current.json',
   params: {q: search},
   headers: {
-    'x-rapidapi-key': b20d47f0d4msh3982d9642dd13c8p1e58f7jsn550814414a33,
+    'x-rapidapi-key':" b20d47f0d4msh3982d9642dd13c8p1e58f7jsn550814414a33",
     'x-rapidapi-host': 'weatherapi-com.p.rapidapi.com'
   }
 };
